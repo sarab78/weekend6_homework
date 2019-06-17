@@ -1,7 +1,11 @@
 body {
   font-family: Palatino;
   background-color: lightpink;
-  
+  background: url('./images/maxresdefault.jpg');
+  background-size: 100%;
 
-
+}
+.display-4 {
+  background-color: lightblue;
+  font-style: italic;
 }

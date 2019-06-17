@@ -40,5 +40,5 @@ return movieListItem;
 const handleDeleteAll = function (event){
 
   const movieList = document.querySelector('#movie-list');
-  movieList.innerHtml = '';
+  movieList.innerHTML = '';
 };
